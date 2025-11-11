@@ -8,9 +8,14 @@ h1 {
     text-align: center;
 
 }
-
+ul { 
+    list-style-type: circle;
+    background: #F0F8FF;
+    border-radius: 15px;
+}
 p {
     font-family: sans-serif;
     margin: 5%;
 }
+
 
